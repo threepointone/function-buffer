@@ -1,0 +1,13 @@
+{
+  "name": "function-buffer",
+  "version": "0.0.0",
+  "description": "function buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Sunil Pai",
+  "license": "BSD",
+  "readmeFilename": "Readme.md"
+}
